@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-##Sentiment Analysis of Tweets
+## Sentiment Analysis of Tweets
 
 This repository contains a Streamlit application for performing sentiment analysis on airline tweets. The application provides visualizations and insights into the sentiments (positive, neutral, negative) expressed in tweets about various airlines.
 
@@ -26,7 +26,7 @@ Word Cloud Generation:
 
 Generate a word cloud for tweets based on their sentiment.
 
-Dependencies
+## Dependencies
 
 Streamlit: For building the interactive web application.
 
